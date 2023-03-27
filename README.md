@@ -1,3 +1,3 @@
-# 100DaysofRtl
-100daysofrtl  in vivado or eda playground
+# 50DaysofRtl
+50daysofrtl  in vivado 
 
