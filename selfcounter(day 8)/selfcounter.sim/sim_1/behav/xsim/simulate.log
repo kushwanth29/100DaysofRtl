@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Error: Test case 1 failed.
+Time: 105 ns  Iteration: 0  Process: /counter_load_tb/Initial31_1  Scope: counter_load_tb  File: C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/selfcounter/selfcounter.srcs/sim_1/new/load_countertb.v Line: 43
+All test cases passed.
+$finish called at time : 325 ns : File "C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/selfcounter/selfcounter.srcs/sim_1/new/load_countertb.v" Line 71

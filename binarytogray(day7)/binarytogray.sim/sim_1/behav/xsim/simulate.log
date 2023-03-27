@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Error: Test case 5 failed.
+Time: 150 ns  Iteration: 0  Process: /binarytograytb/Initial27_1  Scope: binarytograytb  File: C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/binarytogray/binarytogray.srcs/sim_1/new/binarytograytb.v Line: 52
+Error: Test case 7 failed.
+Time: 170 ns  Iteration: 0  Process: /binarytograytb/Initial27_1  Scope: binarytograytb  File: C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/binarytogray/binarytogray.srcs/sim_1/new/binarytograytb.v Line: 62
+All test cases passed.
+$finish called at time : 170 ns : File "C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/binarytogray/binarytogray.srcs/sim_1/new/binarytograytb.v" Line 65
