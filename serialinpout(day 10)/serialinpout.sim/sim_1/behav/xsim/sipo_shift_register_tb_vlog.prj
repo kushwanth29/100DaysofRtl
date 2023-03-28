@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../serialinpout.srcs/sources_1/new/serialinpout.v" \
+"../../../../serialinpout.srcs/sim_1/new/serialinpouttb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
