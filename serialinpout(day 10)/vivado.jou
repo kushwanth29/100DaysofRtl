@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Mar 28 22:57:17 2023
+# Process ID: 5936
+# Current directory: C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/serialinpout-not
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18856 C:\Users\bms_p\Desktop\vlsi 1\100daysofrtl\serialinpout-not\serialinpout.xpr
+# Log file: C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/serialinpout-not/vivado.log
+# Journal file: C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/serialinpout-not\vivado.jou
+# Running On: LAPTOP-39L0K8PU, OS: Windows, CPU Frequency: 2918 MHz, CPU Physical cores: 4, Host memory: 16917 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/serialinpout-not/serialinpout.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source sipo_shift_register_tb.tcl
+close_sim
