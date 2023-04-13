@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Test case 1 passed.
+Test case 2 failed: sequence not detected.
+Test case 3 failed: sequence not detected.
+$finish called at time : 160 ns : File "C:/Users/bms_p/Desktop/vlsi 1/100daysofrtl/seqdet/seqdet.srcs/sim_1/new/seqdettb.v" Line 79
